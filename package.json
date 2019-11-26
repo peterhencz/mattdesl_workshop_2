@@ -1,0 +1,24 @@
+{
+  "name": "mattdesl_2",
+  "version": "1.0.0",
+  "description": "",
+  "main": "sketch.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/peterhencz/mattdesl_workshop_2.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/peterhencz/mattdesl_workshop_2/issues"
+  },
+  "homepage": "https://github.com/peterhencz/mattdesl_workshop_2#readme",
+  "dependencies": {
+    "canvas-sketch": "^0.7.1",
+    "three": "^0.110.0"
+  }
+}
